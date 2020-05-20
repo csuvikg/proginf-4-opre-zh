@@ -1,0 +1,6 @@
+# CLion files
+.idea/
+*.iml
+
+# outputs
+cmake-build-debug/
