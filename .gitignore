@@ -4,3 +4,4 @@
 
 # outputs
 cmake-build-debug/
+*.out
